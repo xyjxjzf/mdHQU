@@ -31,3 +31,5 @@ hqu的信息工程那么难学，还没有一个末流二本的计算机好就�
 惭愧的是现在git还没学会，只会搜项目，再git clone。现在能开始产出一些东西了，打算在廖雪峰的站https://www.liaoxuefeng.com/wiki学一学如何git push。
 
 目前是可能是卡在key这里了，push不上去，我好像智商确实比较低。
+
+哈哈，好像是学会了，我现在研究怎么把适用于国内gpu云服务器stable diffusion webui 项目传上去。是部署好了，就是目录比较大
